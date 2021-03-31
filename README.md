@@ -1,40 +1,20 @@
 # Ecat204528/c-mini-products
 ## 概要
-苦Cの練習で書いたコードを捨てるのがもったいなかったので,githubで管理することにしました.  
-何かの役に立つコードではないと思います.  
-[苦しんで覚えるC言語](http://9cguide.appspot.com)
+C言語の練習で作った小さいプロダクトです.  
+忘れた時確認するためにgithubで管理することにしました.  
+*参考にしたサイト*
+[苦しんで覚えるC言語](http://9cguide.appspot.com/)
+[一週間でわかるC言語](http://c-lang.sevendays-study.com/)
 
 ソースコードや実行ファイルはfinished-product/の下にあります.  
 
-*環境: VirtualBox 上の ubuntuLTS20.4
+*環境: VirtualBox 上の ubuntuLTS20.4*
 
-## o/  
+# minimal-code/
+ほとんど機能のないor機能のないプログラム
+## minimal-code/o/  
 実行可能ファイルがあります.  
 [filename].o
-## src/
+## minimal-program/src/
 ソースコードがあります.  
 [filename].c
-## dev/ and shellscript/
-書いてる途中のファイル,コーディング以外の作業を楽にするためのシェルスクリプトがあります.  
-ディレクトリやファイルの配置に依存する部分が大きいので.gitignoreに設定されています.
-
-## ミニアプリを一行で説明
-暇なときに書きます
-### bitCalc.c
-ビットの論理演算の結果を表示するプログラムです.
-### bitshift.c
-シフト演算の結果を表示するプログラムです.
-### bwrite.c
-バイナリデータを書き込むプログラムです.
-### writeCsv.c
-csv形式のデータを書き込むプログラムです.
-### fread.c
-ファイルを読み込んで表示するプログラムです.
-### option.c
-コマンドライン引数を判別するプログラムです.
-### month.c
-月の数字が入力されたらその月の和名を表示するプログラムです.
-### sigma.c
-総和を求めるプログラムです.
-### circleArea.c
-三角形の面積を求めるプログラムです.
