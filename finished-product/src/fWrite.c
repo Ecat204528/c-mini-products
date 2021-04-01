@@ -3,7 +3,7 @@
 
 void main(){
   FILE *file;
-  file = fopen("/home/ecat/workspace/work-c/dev/sample.txt", "w");
+  file = fopen("sample.txt", "w");
   if (file == NULL){
     printf("can't open the file.\n");
     exit(1);

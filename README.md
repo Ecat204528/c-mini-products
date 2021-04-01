@@ -10,7 +10,7 @@ C言語の練習で作った小さいプロダクトです.
 
 *環境: VirtualBox 上の ubuntuLTS20.4*
 
-# minimal-code/
+# finished-product/
 ほとんど機能のないor機能のないプログラム
 ## minimal-code/o/  
 実行可能ファイルがあります.  

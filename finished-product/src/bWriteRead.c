@@ -6,7 +6,7 @@ void main(){
   int i;
   char wdata[] = { 0x10, 0x1a, 0x1e, 0x1f };
   char rdata[4];
-  file = fopen( "/home/ecat/workspace/work-c/dev/test.bin", "wb" );
+  file = fopen( "test.bin", "wb" );
   if ( file == NULL ){
     printf( "failed to open file" );
     exit(1);
@@ -25,3 +25,4 @@ void main(){
   }
   printf("\n");
 }
+
