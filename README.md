@@ -12,9 +12,9 @@ C言語の練習で作った小さいプロダクトです.
 
 # finished-product/
 ほとんど機能のないor機能のないプログラム
-## minimal-code/o/  
+## o/  
 実行可能ファイルがあります.  
 [filename].o
-## minimal-program/src/
+## src/
 ソースコードがあります.  
 [filename].c
