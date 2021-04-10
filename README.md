@@ -10,11 +10,14 @@ C言語の練習で作った小さいプロダクトです.
 
 *環境: VirtualBox 上の ubuntuLTS20.4*
 
-# finished-product/
+# minimal-product/
 ほとんど機能のないor機能のないプログラム
 ## run/  
 実行可能ファイルがあります.  
 [filename].run
 ## src/
 ソースコードがあります.  
-[filename].c
+[filename].ci
+# fileSplit
+ファイル分割を試す用のソースコード、オブジェクトファイル、Makefileがあります
+
